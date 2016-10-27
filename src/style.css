@@ -1,0 +1,35 @@
+.root {
+    -fx-background-color: #393838;
+}
+
+.border-pane{
+    -fx-background-color: #737371;
+    -fx-border-color: aliceblue;
+}
+
+.label{
+    -fx-background-color: #a6a6a3;
+    -fx-font-size: 40;
+    -fx-font-weight: normal;
+    -fx-text-fill: white;
+    -fx-alignment: center-right;
+    -fx-text-alignment: left;
+    -fx-border-width: 1;
+    -fx-border-color: #4c7a5f;
+}
+
+.label-custom{
+    -fx-background-color: #a6a6a3;
+    -fx-font-size: 70;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+    -fx-text-alignment: left;
+    -fx-border-width: 3;
+    -fx-border-color: #4c7a5f;
+}
+
+.button{
+    -fx-background-color: #b0b0b0;
+    -fx-font-size: 25;
+}
